@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FaceMaker</string>
+    <string name="RedSlider">R</string>
+    <string name="GreenSlider">G</string>
+    <string name="BlueSlider">B</string>
+    <string name="hairbutton">Hair</string>
+    <string name="eyebutton">Eye</string>
+    <string name="skinbutton">Skin</string>
+    <string name = "hairChooser"> Hair Style Select</string>
+    <string name = "randomButton">Randomize</string>
+    <string-array name="styles">
+        <item> Mohawk</item>
+        <item> Afro</item>
+        <item>Middle Part</item>
+    </string-array>
+
+</resources>
